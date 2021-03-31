@@ -1,0 +1,19 @@
+{
+  "name": "dev-languages",
+  "version": "1.0.0",
+  "description": "Aprendendo a criar pacote npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandsdev/dev-languages.git"
+  },
+  "author": "Wanderlei Junior <wandsdeveloper@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wandsdev/dev-languages/issues"
+  },
+  "homepage": "https://github.com/wandsdev/dev-languages#readme"
+}
